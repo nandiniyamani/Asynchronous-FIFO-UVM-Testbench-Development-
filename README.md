@@ -44,7 +44,7 @@ This project implements a **Universal Verification Methodology (UVM)** based tes
 
 | **Metric**                    | **Outcome**       |
 |-------------------------------|------------------|
-| Functional Coverage           | ✅ 98%            |
+| Functional Coverage           | ✅ 95  %            |
 | Simulation Runtime Reduction  | ⚡ 30%            |
 | Overflow/Underflow Detection  | ✅ Verified       |
 | Clock Domain Sync             | ✅ Achieved       |
