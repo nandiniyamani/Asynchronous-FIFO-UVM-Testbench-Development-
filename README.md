@@ -1,7 +1,4 @@
 # 🧪 Asynchronous FIFO UVM Testbench
-
-## 📘 Overview
-
 This project implements a **Universal Verification Methodology (UVM)** based testbench for validating an **Asynchronous FIFO (First-In-First-Out)** buffer. The design ensures data integrity between **two independent clock domains** and tests key edge cases like **overflow**, **underflow**, and **reset conditions**. 
 
 ---
